@@ -1,0 +1,5 @@
+Type: update
+Namespace: default
+Deployment:
+  Name: web-nginx
+  Image: 192.168.200.128/common/nginx:latest
